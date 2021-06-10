@@ -1,0 +1,1 @@
+cmd /k "cd build && build.exe"
